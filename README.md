@@ -19,6 +19,7 @@ Logging (for error tracking)
 📂 Project Structure
 
 📂 Amazon-Scraper
+
  ├── amazon_scraper.py   # Main script
  
  ├── amazon_products.csv # Extracted product data
