@@ -20,8 +20,11 @@ Logging (for error tracking)
 
 📂 Amazon-Scraper
  ├── amazon_scraper.py   # Main script
+ 
  ├── amazon_products.csv # Extracted product data
+ 
  ├── README.md           # Project documentation
+ 
  ├── requirements.txt    # Required dependencies
 
  
