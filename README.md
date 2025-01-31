@@ -1,8 +1,10 @@
 Amazon Product Scraper 🛒
 📌 Project Overview
+
 This project is a web scraper that extracts product details from Amazon search results using Python, BeautifulSoup, and Requests. The extracted data includes product name, price, rating, seller name, and stock status, which is saved into a CSV file.
 
 🛠 Technologies Used
+
 Python 🐍
 Requests (for fetching web pages)
 BeautifulSoup (for parsing HTML)
